@@ -3,6 +3,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Box } from "@mui/material";
 import {Navbar,Feed,VideoDetail,SearchFeed,ChannelDetail} from './components';
 
+//35:53
+
 const App = () => (
   <BrowserRouter>
     <Box sx={{ backgroundColor: "#000" }}>
