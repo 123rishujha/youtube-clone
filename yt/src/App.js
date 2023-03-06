@@ -1,7 +1,13 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Box } from "@mui/material";
-import {Navbar,Feed,VideoDetail,SearchFeed,ChannelDetail} from './components';
+import {
+  Navbar,
+  Feed,
+  VideoDetail,
+  SearchFeed,
+  ChannelDetail,
+} from "./components";
 
 //35:53
 
