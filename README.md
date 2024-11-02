@@ -11,3 +11,4 @@ Install my-project with npm
   npm install
   npm run start
 ```
+![image](https://github.com/user-attachments/assets/5a1778d1-9db1-4fb3-8e69-989287304818)
